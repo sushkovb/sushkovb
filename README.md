@@ -23,7 +23,7 @@
 
 ### Связаться со мной можно с помощью:
 
-[![Telegram](href="https://pngicon.ru/znachok-telegramma.html"><img src="https://pngicon.ru/file/uploads/telegram-128x128.png" alt="телеграмм"](https://t.me/boris_sushkov)
+[![Telegram]([href="https://pngicon.ru/znachok-telegramma.html"><img src="https://pngicon.ru/file/uploads/telegram-128x128.png" alt="телеграмм"](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9))](https://t.me/boris_sushkov)
 
 <!--
 **sushkovb/sushkovb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
