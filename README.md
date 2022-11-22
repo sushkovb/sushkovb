@@ -16,10 +16,7 @@
   <img src="https://images.opencollective.com/allure-report/f14e715/logo/256.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/26328913?s=400&v=4" title="Selenoid" alt="Selenoid" width="50" height="40"/>&nbsp;
   </p>
-  
-## Мои проекты:
 
-Скоро здесь будут мои проекты
 
 ### Связаться со мной можно с помощью:
 
